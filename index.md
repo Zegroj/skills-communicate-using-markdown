@@ -20,3 +20,7 @@ all:
         spine2:
           ansible_host: 172.80.80.22
 ```
+
+- [ ] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
